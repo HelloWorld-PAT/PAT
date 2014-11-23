@@ -9,7 +9,7 @@ bin
 然后：git add README.md 。这里是添加README这个文件；
 
 然后 git add .  ：要注意后面的点。这里是添加整个目录，也可以像git add README.md一样。添加单个文件；
-
+或者 git add -u ：添加当前目录下的所有dir
 然后 git commit ......  
 然后等这些文件全部提交到本地仓库后，再输入你要提交的仓库地址，如我的：https://github.com/kazeik/W_IMsg.git
 然后： git push -u origin master 这里就开始准备提交到网络上了
