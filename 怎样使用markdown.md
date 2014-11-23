@@ -1,4 +1,9 @@
 [MARKDOWN说明](http://wowubuntu.com/markdown/basic.html)
+
+
+[图灵MARKDOWN例子](http://www.ituring.com.cn/article/23)
+
+
 单个回车
 视为空格。
 
